@@ -9,7 +9,6 @@ import matplotlib
 from bs4 import BeautifulSoup as bs
 import matplotlib.pyplot as plt
 import urllib.request
-import sys
 from wordcloud import WordCloud  # 词云包
 import json
 
