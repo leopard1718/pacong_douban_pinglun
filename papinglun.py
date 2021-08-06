@@ -4,7 +4,6 @@ import warnings
 import jieba  # 分词包
 import numpy  # numpy计算包
 import codecs  # codecs提供的open方法来指定打开的文件的语言编码，它会在读取的时候自动转换为内部unicode
-import re
 import pandas as pd
 import matplotlib
 from bs4 import BeautifulSoup as bs
